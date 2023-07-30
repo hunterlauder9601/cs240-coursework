@@ -1,0 +1,4 @@
+./partA sample_input_directory_name sample_workdir_name
+3
+input directory name = sample_input_directory_name
+working directory name = sample_workdir_name
